@@ -1,4 +1,4 @@
-# Simply-Neural-Network
+# Simple-Neural-Network
 
 ##### Steps to build a Neural Network in NumPy
 
